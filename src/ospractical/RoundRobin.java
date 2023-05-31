@@ -1,3 +1,4 @@
+//round robin scheduling algorithm
 package ospractical;
 import java.util.Scanner;
 class RoundRobinAlgorithm
